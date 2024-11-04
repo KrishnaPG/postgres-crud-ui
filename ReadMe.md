@@ -24,3 +24,5 @@ Filter screen
 Create new 
 ![image](https://github.com/user-attachments/assets/99806ea5-a0fe-4f8c-93f5-ec7d5e9c362f)
 
+### Contact
+Get in touch with [GK Palem](https://linkedin.com/in/gpalem) if you are looking for any help with Startup MVPs, product planning, business strategy or generic help on how to adapt emerging technology (AI, Blockchain, Industry 4.0, Web 3.0 etc.) in an organization's business processes and products/solutions.
