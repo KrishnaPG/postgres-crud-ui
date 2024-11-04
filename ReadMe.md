@@ -13,5 +13,14 @@ This project is built with [Admin.js](https://github.com/SoftwareBrothers/adminj
     - username: `admin@example.com` 
     - password: password
      
-## Screenshot
+## Screenshots
+
+List screen
 ![image](https://github.com/user-attachments/assets/0dbc4b73-9db1-4996-9b23-2d7babcb6e42)
+
+Filter screen
+![image](https://github.com/user-attachments/assets/dd2cccb9-fc46-44f2-89ad-f5b23cf08783)
+
+Create new 
+![image](https://github.com/user-attachments/assets/99806ea5-a0fe-4f8c-93f5-ec7d5e9c362f)
+
