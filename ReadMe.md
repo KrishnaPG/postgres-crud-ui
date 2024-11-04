@@ -12,3 +12,6 @@ This project is built with [Admin.js](https://github.com/SoftwareBrothers/adminj
   6. Launch the app with `npm run start` command.
     - username: `admin@example.com` 
     - password: password
+     
+## Screenshot
+![image](https://github.com/user-attachments/assets/0dbc4b73-9db1-4996-9b23-2d7babcb6e42)
